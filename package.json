@@ -1,7 +1,7 @@
 {
   "name": "robotics-club-services",
   "version": "1.0.0",
-  "description": "",
+  "description": "A repo of services for the Robotics Club @ UNT",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -15,6 +15,6 @@
   "scripts": {
     "test": "./node_modules/.bin/nodemon ./node_modules/.bin/mocha --reporter spec"
   },
-  "author": "",
+  "author": "Charles Bido",
   "license": "ISC"
 }
